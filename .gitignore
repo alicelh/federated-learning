@@ -1,0 +1,5 @@
+*.py[cod]
+*.json
+/.vscode/
+/fed_emnist_digitsonly/
+fed_emnist_digitsonly.tar.bz2
