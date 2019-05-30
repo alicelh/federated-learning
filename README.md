@@ -10,10 +10,10 @@ https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_clas
 https://storage.googleapis.com/tff-datasets-public/fed_emnist_digitsonly.tar.bz2
 
 ## 工程目录
-.
-|——fed_emnist_digitsonly
-|   |——fed_emnist_digitsonly_test.h5
-|   |——fed_emnist_digitsonly_train.h5
-|——results
-|——classify.py
-|——util.py
+.  
+|——fed_emnist_digitsonly  
+|   |——fed_emnist_digitsonly_test.h5  
+|   |——fed_emnist_digitsonly_train.h5  
+|——results  
+|——classify.py  
+|——util.py  
